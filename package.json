@@ -9,11 +9,34 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@google-cloud/speech": "^5.1.1",
+    "@google-cloud/text-to-speech": "^4.1.0",
     "@next/font": "13.1.4",
+    "@uiw/react-textarea-code-editor": "^2.0.6",
+    "buffer-to-stream": "^1.0.0",
+    "chatgpt": "^3.5.0",
     "eslint": "8.32.0",
     "eslint-config-next": "13.1.4",
+    "extendable-media-recorder": "^7.1.1",
+    "extendable-media-recorder-wav-encoder": "^7.0.81",
+    "framer-motion": "^8.5.0",
+    "fs": "^0.0.1-security",
     "next": "13.1.4",
+    "next-remove-imports": "^1.0.8",
+    "node-audiorecorder": "^3.0.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1",
+    "socket.io": "^4.5.4",
+    "socket.io-client": "^4.5.4",
+    "socket.io-stream": "^0.9.1",
+    "stream": "^0.0.2",
+    "streamifier": "^0.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "18.0.27",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "behavioral": [
+    "Where do you expect to be working in five years?",
+    "How do you handle stress?",
+    "How would you describe your work ethic?",
+    "What adjectives would you use to describe yourself?",
+    "What is the ideal work environment?",
+    "What is your greatest strength?",
+    "What is your greatest weakness?",
+    "What is your ideal job?",
+    "What is your most significant accomplishment?",
+    "How do you establish long and short term goals for yourself?",
+    "How do you measure success?",
+    "What have you done in the past that gave you satisfaction?",
+    "How would you describe a successful supervisor or manager?"
+  ],
+  "technical": [
+    "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.\n\nYou may assume that each input would have exactly one solution, and you may not use the same element twice.\n\nYou can return the answer in any order."
+  ]
+}
